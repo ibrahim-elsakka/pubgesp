@@ -5,7 +5,7 @@ Windows Registry Editor Version 5.00
 "EmulatorTopMostStatus"=dword:00000000
 "syzs_emulator_hwnd"=dword:00000000
 "CPUScore"=dword:000012b0
-"sf"="C:\\temp"
+"sf"="E:\\temp"
 
 [HKEY_CURRENT_USER\SOFTWARE\Tencent\MobileGamePC\Beacon]
 "Last_Sid_AndroidEmulator.exe"="C9376934-53F5-4628-9AC5-2D9DA7C7661C"
