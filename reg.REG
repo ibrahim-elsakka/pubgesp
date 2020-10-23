@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Tencent\MobileGamePC]
+"UserLanguage"="us_EN"
+"EmulatorTopMostStatus"=dword:00000000
+"syzs_emulator_hwnd"=dword:00000000
+"CPUScore"=dword:000012b0
+"sf"="C:\\temp"
+
+[HKEY_CURRENT_USER\SOFTWARE\Tencent\MobileGamePC\Beacon]
+"Last_Sid_AndroidEmulator.exe"="C9376934-53F5-4628-9AC5-2D9DA7C7661C"
+"Last_Sid_TxGaDcc.exe"="BA566DAE-5657-4C5F-82B3-7000897FAB70"
+
+[HKEY_CURRENT_USER\SOFTWARE\Tencent\MobileGamePC\RunFalgs]
+"ApkRuning"=dword:00000000
+
