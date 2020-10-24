@@ -14,7 +14,7 @@ Windows Registry Editor Version 5.00
 "GpuScore"=dword:00000222
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AOW_Rootfs_0]
-"InstallPath"="D:\\Pubgm\\TxGameAssistant\\AOW_Rootfs"
+"InstallPath"="D:\\Program Files\\TxGameAssistant\\AOW_Rootfs"
 "Version"="3.30.43.100"
 "InstallDone"=dword:00000001
 
@@ -41,7 +41,7 @@ Windows Registry Editor Version 5.00
 "adg_GameRelease_lt"=hex(b):a9,34,d0,5e,00,00,00,00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UI]
-"InstallPath"="D:\\Pubgm\\TxGameAssistant\\UI"
+"InstallPath"="D:\\Program Files\\TxGameAssistant\\UI"
 "Version"="2.0.12591.123"
 "StartCount"=dword:00000172
 "SnapshotPath"="C:\\ProgramData\\Tencent\\TxGameAssistant\\Snapshot"
