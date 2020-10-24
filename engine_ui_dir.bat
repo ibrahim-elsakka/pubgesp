@@ -1,2 +1,2 @@
-mkdir E:\\Pubgm\\TxGameAssistant\\UI
-mkdir E:\\temp
+mkdir D:\\Pubgm\\TxGameAssistant\\UI
+mkdir D:\\temp
