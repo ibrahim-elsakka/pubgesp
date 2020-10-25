@@ -41,7 +41,7 @@ Windows Registry Editor Version 5.00
 "adg_GameRelease_lt"=hex(b):a9,34,d0,5e,00,00,00,00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UI]
-"InstallPath"="D:\\TxGameAssistant\\UI"
+"InstallPath"="D:\\TxGameAssistant\\ui"
 "Version"="2.0.12591.123"
 "StartCount"=dword:00000172
 "SnapshotPath"="C:\\ProgramData\\Tencent\\TxGameAssistant\\Snapshot"
