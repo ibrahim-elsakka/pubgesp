@@ -31,3 +31,6 @@ del /s /f /q C:\ProgramData\Tencent
 del /s /f /q C:\Users\%USERNAME%\AppData\Local\Tencent
 del /s /f /q C:\Users\%USERNAME%\AppData\Roaming\Tencent
 net stop Tensafe
+netsh advfirewall set publicprofile state on
+netsh advfirewall set domainprofile state on
+netsh advfirewall set privateprofile state on
